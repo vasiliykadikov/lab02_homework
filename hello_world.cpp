@@ -1,8 +1,7 @@
 #include <iostream>
 #include <string>
-using namespace std;
 int main () {
-string name;
-cin >> name;
-cout << "Hello World from " << name;
+	std::string name;
+	stg::cin >> name;
+	std::cout << "Hello World from " << name;
 }
